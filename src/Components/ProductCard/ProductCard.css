@@ -1,0 +1,29 @@
+.productCard{
+    width: 100%;
+    height: fit-content;
+    
+    padding: .5rem;
+    
+}
+
+.productCard__img{
+    width: 100%;
+    object-fit: contain;
+    height: 300px;
+}
+
+.productCard__Details{
+    display: flex;
+    justify-content: space-between;
+    flex-direction:column ;
+}
+
+.productCard__Btn{
+    display: block;
+    margin: auto;
+    width: 100%;
+    margin-top: 1rem;
+    outline: none;
+    height: 40px;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+    outline: 1px dashed red;
+}
+.links{
+    text-decoration: none;
+    color: #121212;
+}
+
+
+.fav{
+    align-self: center;
+}
